@@ -1,7 +1,7 @@
 {
   "name": "grunt-tslint-teamcity",
   "description": "Grunt plugin for TypeScript linter with teamcity reporter.",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "http://git.esphere.local/modules/grunt-tslint-teamcity",
   "author": {
     "name": "zismailov",

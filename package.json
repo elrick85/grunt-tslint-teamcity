@@ -1,7 +1,7 @@
 {
   "name": "grunt-tslint-teamcity",
   "description": "Grunt plugin for TypeScript linter with teamcity reporter.",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "homepage": "http://git.esphere.local/modules/grunt-tslint-teamcity",
   "author": {
     "name": "zismailov",
@@ -25,9 +25,6 @@
   },
   "scripts": {
     "test": "grunt test"
-  },
-  "publishConfig":{
-	"registry":"http://artifactory.esphere.local:8081/artifactory/api/npm/npm-local"
   },
   "devDependencies": {
     "grunt": "~0.4.5",

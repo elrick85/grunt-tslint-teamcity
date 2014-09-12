@@ -1,2 +1,4 @@
-var Xx = 'abcd';
-
+(function() {
+	"use strict";
+	var Xx = "abcd";
+})();

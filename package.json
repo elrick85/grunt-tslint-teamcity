@@ -1,23 +1,23 @@
 {
   "name": "grunt-tslint-teamcity",
   "description": "Grunt plugin for TypeScript linter with teamcity reporter.",
-  "version": "0.1.8",
-  "homepage": "http://git.esphere.local/modules/grunt-tslint-teamcity",
+  "version": "0.1.9",
+  "homepage": "https://github.com/elrick85/grunt-tslint-teamcity",
   "author": {
     "name": "zismailov",
     "email": "zismailov@esphere.ru"
   },
   "repository": {
     "type": "git",
-    "url": "git://git.esphere.local:modules/grunt-tslint-teamcity.git"
+    "url": "git://git@github.com:elrick85/grunt-tslint-teamcity.git"
   },
   "bugs": {
-    "url": "http://git.esphere.local/modules/grunt-tslint-teamcity/issues"
+    "url": "https://github.com/elrick85/grunt-tslint-teamcity/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://git.esphere.local/modules/grunt-tslint-teamcity/blob/master/LICENSE"
+      "url": "https://github.com/elrick85/grunt-tslint-teamcity/blob/master/LICENSE"
     }
   ],
   "engines": {
